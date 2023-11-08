@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos</title>
+    <style>
+ 
+h1 {
+    text-align: center;
+}
+p {
+    display: none;
+    width: 500px;
+    border: 5px solid #ccc;
+    background-color: gray;
+    padding:1px;
+}
+div:hover p {
+    display: block;
+}
+
+    </style>
+</head>
+<body>
+    <h1 style="color:black;">Termos comuns de segurança cibernética</h1><br>
+        </div>
+
+    <ul>
+        <div><li><b>VPN</b></li><p>-VPN é a sigla para "Virtual Private Network" (Rede Virtual Privada, em português), e se refere a uma tecnologia que permite criar uma conexão segura e criptografada entre um dispositivo (como um  smartphone) e uma rede privada ou outro ponto na internet.</p></div><br>
+        <div><li><b>Firewall</b></li><p>-Um firewall é um componente de segurança de rede que atua como uma barreira entre uma rede privada ou dispositivo e a internet ou outras redes públicas. Sua função principal é controlar o tráfego de rede, permitindo ou bloqueando a passagem de dados com base em um conjunto de regras predefinidas. Os firewalls desempenham um papel crucial na proteção de sistemas e redes contra ameaças de segurança, como intrusões, malware, vírus e acessos não autorizados.</p></div><br>
+        
+<div><li><b>Phishing</b></li><p>-Phishing é uma técnica maliciosa e fraudulenta usada por cibercriminosos para enganar pessoas e obter informações confidenciais, como senhas, números de cartão de crédito e outras informações pessoais ou financeiras. O termo "phishing" é uma junção das palavras "password" (senha) e "fishing" (pesca), refletindo a ideia de "pescar" informações sensíveis das vítimas.</p></div>
+    </ul>
+
+    
+</body>
+</html>
