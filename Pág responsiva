@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title>Dicas de segurança</title>
+
+<style>
+h2{
+	text-align: center;
+}
+
+@media (max-width:10000px) {
+ .container {
+	max-width: 100%;
+	margin: auto 5%;
+	border: 1px solid #ccc;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	
+	width:25%;
+	margin:1.6%;
+	padding:2.5%;
+
+	background: #F5F5F5;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+body{
+	background-color: whitesmoke;
+	}
+}
+
+@media (max-width:768px) {
+
+	.flex{
+		flex-direction: column;
+	}
+
+	.item {
+	 width:90%;
+	 margin:2%;
+	 padding:3%;
+
+	}
+
+
+	body{
+		background-color: #F5F5F5;
+	}
+	
+}
+
+
+@media (max-width:576px) {
+	body{
+		background-color: #F5F5F5;
+	}
+	
+}
+
+
+</style>
+</head>
+<body>
+
+<header><h2>Dicas de segurança</h2></header>
+
+<section class="container flex">
+
+<div class="item">
+<h3>Mantenha o Software Atualizado</h3>
+<p>Certifique-se de que seu sistema operacional, navegador e antivírus estejam sempre atualizados. As atualizações frequentes geralmente incluem correções de segurança essenciais que ajudam a proteger contra ameaças online.</p>
+
+</div>
+<div class="item">
+<h3>Use Senhas Fortes e Únicas</h3>
+<p>Crie senhas robustas para suas contas online e evite reutilizá-las. Senhas únicas dificultam a tarefa dos hackers em caso de violação de uma conta. Considere o uso de um gerenciador de senhas para facilitar a gestão de múltiplas senhas complexas.</p>
+
+
+</div>
+<div class="item">
+<h3>Cuidado com Phishing</h3>
+<p>Esteja atento a e-mails, mensagens e links suspeitos. Não clique em links de fontes desconhecidas e verifique a legitimidade de e-mails solicitando informações pessoais. Phishing é uma tática comum usada por cibercriminosos para obter acesso indevido a dados sensíveis.</p>
+
+</div>
+
+</section>
+<footer></footer>
+
+	
+</body>
+</html>
