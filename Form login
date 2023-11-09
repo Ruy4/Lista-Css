@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms</title>
+  <style>
+    .center {
+      text-align: center;
+      margin: auto;
+      width: 500px;
+      height: 230px;
+      background-color: white;
+      padding: 10px;
+    }
+
+    input[type=text] {
+      border: 2px solid red;
+      border-radius: 4px;
+    }
+
+    input[type=password] {
+      border: 2px solid red;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="center">
+    <h1 style="color:#A9A9A9">LOGIN</h1>
+
+    <form action="">
+
+      <label for="Name">Usuário</label><br>
+      <input type="text" id="name" name="name"><br>
+      <label for="senha">Senha</label><br>
+      <input type="password" id="senha" name="senha"><br><br>
+      <input type="button" style="background-color: #A9A9A9" value="Entrar">
+
+    </form>
+
+  </div>
+</body>
+
+</html>
