@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Segurança da Informação</title>
+</head>
+<body>
+    <header>
+        <h1>Serviço de Segurança da Informação</h1>
+        <p>Protegendo seus dados com excelência</p>
+    </header>
+
+    <section class="features">
+        <div class="feature">
+            <img width="40" height="40"  src=https://cdn-icons-png.flaticon.com/512/2089/2089795.png alt="Ícone de cadeado">
+            <h2>Segurança de Dados</h2>
+            <p>Nossos especialistas garantem a proteção total dos seus dados sensíveis.</p>
+        </div>
+
+        <div class="feature">
+            <img  width="40" height="40" src="https://www.pngmart.com/files/22/Firewall-PNG-Transparent.png" alt="Ícone de firewall">
+            <h2>Firewall Avançado</h2>
+            <p>Implementamos firewalls robustos para bloquear acessos não autorizados.</p>
+        </div>
+
+        <div class="feature">
+            <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6356/6356926.png" alt="Ícone de monitoramento">
+            <h2>Monitoramento 24/7</h2>
+            <p>Equipe dedicada monitora constantemente atividades suspeitas para uma resposta rápida.</p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Entre em Contato</h2>
+        <p>Estamos prontos para ajudar a fortalecer a segurança da sua informação. Entre em contato conosco.</p>
+        <a href="mailto:contato@ticaracatica.com">contato@ticaracatica.com</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Serviço de Segurança da Informação</p>
+    </footer>
+</body>
+</html>
